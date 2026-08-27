@@ -1,0 +1,68 @@
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100/
+.Trashes/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+*.rej
+
+# Office/LibreOffice lock and temporary files
+~$*
+.~lock.*#
+
+# Build and generated output
+build/
+dist/
+out/
+target/
+tmp/
+temp/
+.cache/
+coverage/
+*.log
+
+# Python and notebook caches (for optional maintenance scripts)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# LaTeX and other document-generation intermediates
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# ROS tooling (kept for compatibility with existing workflows)
+devel/
+logs/
+.catkin_tools/
+install/
+
+# Obsidian workspace metadata
+.obsidian/
